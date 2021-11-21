@@ -1,6 +1,7 @@
 # spatialtransformernetwork-cnn
 
-** Traffic Sign Classification using Spatial Transformer Networks.**
+ Traffic Sign Classification using Spatial Transformer Networks.![hardware_arch](https://user-images.githubusercontent.com/25413124/142775588-e9ac41ac-349a-48d9-a9f9-2e72c1a059bc.png)
+
  
  Requirements:
  Install INTEL FPGA SDK FOR OPENCL 
