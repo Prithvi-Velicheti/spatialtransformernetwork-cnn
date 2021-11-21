@@ -6,9 +6,9 @@
  Requirements:     \
  Install INTEL FPGA SDK FOR OPENCL   \
  
- To Emulate and Run on CPU   \
- $ ./aoc_emulate_a10gx.sh    \ 
- $  make \
+ To Emulate and Run on CPU   <br/>
+ $ ./aoc_emulate_a10gx.sh    <br/>
+ $  make  <br/>
  $  CL_CONTEXT_EMULATOR_DEVICE_INTELFPGA=1 bin/host <img_num>    \
  <img_num> ranges from 1-9   \
  
