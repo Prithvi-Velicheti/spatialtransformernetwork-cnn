@@ -1,0 +1,1 @@
+float fc1.bn.num.batches.tracked.h={120942};
